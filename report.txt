@@ -1,0 +1,1 @@
+Changed footprint C1 from 'Capacitor_SMD:C_0402_1005Metric' to 'Capacitor_SMD:C_0402_1005Metric': : OK
